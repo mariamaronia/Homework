@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae00a736-0f74-4c62-a10c-b95618abebde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/davaleba1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/davaleba2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/davaleba3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/davaleba4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/davaleba5.java" afterDir="false" />
+    <list default="true" id="ae00a736-0f74-4c62-a10c-b95618abebde" name="Changes" comment="Homework">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework.eml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework.userlibraries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/org/example/davaleba1.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/org/example/davaleba2.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/org/example/davaleba3.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/org/example/davaleba4.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/org/example/davaleba5.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/org/example/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +71,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/mariamaronia/Desktop/Homework/src/main/java/org/example/Main.java"
+    "onboarding.tips.debug.path": "/Users/mariamaronia/Desktop/Homework/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "advanced.settings"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -89,6 +90,15 @@
       <option name="presentableId" value="Default" />
       <updated>1732129175837</updated>
     </task>
+    <task id="LOCAL-00001" summary="Homework">
+      <option name="closed" value="true" />
+      <created>1732305194339</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732305194339</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,5 +111,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework" />
   </component>
 </project>
